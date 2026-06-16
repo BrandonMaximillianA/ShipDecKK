@@ -127,7 +127,7 @@ nav ul li a:hover {
 }
 
 .hero {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../assets/heroBG.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Assets/heroBG.jpg');
     background-size: cover;
     background-position: center;
     color: var(--white);
